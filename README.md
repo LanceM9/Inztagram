@@ -1,16 +1,16 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Inztagram*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Inztagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User can view the last 20 posts submitted to "Instagram".
-- [ ] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/77302011/111860742-e2a1dd80-8906-11eb-9e9c-37807f8e443e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -49,7 +49,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Lance Martinez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
